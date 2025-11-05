@@ -1,7 +1,7 @@
 
 ## ¡Bienvenido/a al espacio para programadores de Identia.pe!
 
-Este es el punto de partida exclusivo para el equipo técnico de Identia. Aquí comienza tu viaje dentro del equipo, donde encontrarás guias, nuestras mejores prácticas y el mapa de los repositorios que impulsan nuestra tecnología.
+Este es el punto de partida y lugar de consulta  del equipo técnico de Identia. 
 
 ## 👋 Bienvenida para nuevos programadores
 
