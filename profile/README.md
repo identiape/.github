@@ -5,7 +5,7 @@ Este es el punto de partida exclusivo para el equipo técnico de Identia. Aquí 
 
 ## 👋 Bienvenida para nuevos programadores
 
-Si eres un nuevo ingeniero en Identia.pe que se une a nuestro equipo, te recomendamos como primer paso visitar nuestra página de [onboarding.md](onboarding.md).
+Si eres un nuevo ingeniero en Identia.pe que se une a nuestro equipo, te recomendamos como primer paso visitar nuestra página de [onboarding](onboarding.md).
 
 ## Contenido
  
